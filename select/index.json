@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フィルムカメラ",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-03-31T04:35:15.596035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィルムカメラ",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_フィルムカメラ_BLUEGOATS.txt"
+    }
+  ]
+}
